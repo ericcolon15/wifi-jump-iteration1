@@ -1,0 +1,7 @@
+
+body {
+    max-width: 430px;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgb(245, 142, 16)), to(#f4f4f4)) fixed;
+    background-image: url(/images/Wifi\ Jump\ Background.jpg);
+    background-size: cover;
+}
