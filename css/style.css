@@ -9,6 +9,8 @@ body {
  height: 100%;
 }
 
+
+
 .wifiPortal{
     align-items: center;
     align-content: center;
@@ -25,7 +27,7 @@ body {
 
 .wifiCards{
     display: flex;
-    padding-top: 40px;
+    padding: 80px;
     justify-content: space-around;
     align-content: center;
     align-items: center;
@@ -37,13 +39,23 @@ body {
 }
 
 .wifiContent{
-    padding: 25px;
+    padding: 35px;
     height: 600px;
     width: fit-content;
     justify-content: center;
     align-content: center;
 }
 
+.card-img-top{
+    margin: 0 auto;
+    padding: 25px;
+    height: 236px;
+}
+
+.card-body{
+    margin: 0 auto;
+    padding: 25px;
+}
 .wifiFooter{
     height: 500px;
     width: 100%;
@@ -53,8 +65,16 @@ body {
     align-content: center;
 }
 
+.footerLogo{
+    margin: 0 auto;
+    padding: 45px;
+    width: 350px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
 .footerImgs{
-    width: 100%;
+    width: ;
     justify-content: space-between;
     text-align: right;
 }
