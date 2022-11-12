@@ -74,11 +74,16 @@ body {
     text-align: center;
 }
 .footerImgs{
-    width: ;
+    width: 100%;
     justify-content: space-between;
     text-align: right;
 }
 
 .footerContent{
     text-align: center;
+}
+
+.facebook, .instagram, .gmail{
+    padding: 4px;
+    justify-content: space-around;
 }
