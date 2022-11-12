@@ -1,7 +1,37 @@
+h1, h2, h3, h4, h5, h6, p{
+    font-family: 'Montserrat', sans-serif;
+}
 
 body {
-    max-width: 430px;
-    background: -webkit-gradient(linear, left top, left bottom, from(rgb(245, 142, 16)), to(#f4f4f4)) fixed;
-    background-image: url(/images/Wifi\ Jump\ Background.jpg);
+ background-image: linear-gradient(black, #F0950C);
+ background-size: cover;
+ background-repeat: no-repeat;
+ height: 100%;
+}
+
+.wifiPortal{
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    background-image: url(/images/Jumbotron\ img1.png) !important;
     background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.wifiPortal h1{
+    padding-top: 20px;
+    color: white;
+}
+
+.wifiCards{
+    display: flex;
+    padding-top: 40px;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+}
+
+.card{
+    background-color: #1E1E1E !important;
+    color: white;
 }
