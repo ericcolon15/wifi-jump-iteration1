@@ -34,12 +34,14 @@ body {
 .card{
     background-color: #1E1E1E !important;
     color: white;
-    height: 600px;
-    width: fit-content;
 }
 
 .wifiContent{
     padding: 25px;
+    height: 600px;
+    width: fit-content;
+    justify-content: center;
+    align-content: center;
 }
 
 .wifiFooter{
