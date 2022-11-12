@@ -15,7 +15,8 @@ body {
     align-items: center;
     align-content: center;
     text-align: center;
-    background-image: url(/images/Jumbotron\ img1.png) !important;
+    /* background-image: url(/images/Jumbotron\ img1.png) !important; */
+    background-color: #1E1E1E !important;
     background-size: cover;
     background-repeat: no-repeat;
 }
