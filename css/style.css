@@ -35,3 +35,16 @@ body {
     background-color: #1E1E1E !important;
     color: white;
 }
+
+.wifiContent{
+    padding: 25px;
+}
+
+.wifiFooter{
+    padding: 25px;
+    margin-top: 40px;
+}
+
+.footerImgs{
+  padding-right: 25px;
+}
